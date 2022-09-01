@@ -20,7 +20,7 @@ public class UserEntity {
      */
     private String userPwd;
     /**
-     * 昵称
+     * 用户昵称
      */
     private String displayName;
     /**
